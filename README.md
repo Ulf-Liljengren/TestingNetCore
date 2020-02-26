@@ -1,3 +1,4 @@
 # TestingNetCore
 
 Text
+Text2
