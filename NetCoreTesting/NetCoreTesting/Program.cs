@@ -9,7 +9,7 @@ namespace NetCoreTesting
             Console.WriteLine("Hello World!");
             int i = 1 + 1;
             Console.WriteLine("i = " + i.ToString());
-            Trasig;
+            double hel = 1;
         }
     }
 }
